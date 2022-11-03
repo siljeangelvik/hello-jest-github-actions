@@ -1,0 +1,23 @@
+{
+  "name": "hello-jest-github-actions",
+  "version": "1.0.0",
+  "description": "![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siljeangelvik/hello-jest-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siljeangelvik/hello-jest-github-actions/issues"
+  },
+  "homepage": "https://github.com/siljeangelvik/hello-jest-github-actions#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
