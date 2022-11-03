@@ -1,3 +1,3 @@
 # hello-jest-github-actions
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![jest workflow](https://github.com/github/docs/actions/workflows/jest.yml/badge.svg)
